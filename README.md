@@ -46,6 +46,7 @@ Some general keyboard shortcuts that I use frequently.
 
 | Command | Mac OS X | Windows | Linux | Description |
 | ------- | -------- | ------- | ----- | ----------- |
+| Focus Cursor on Tree | `ctrl+0` | `n/a` | `n/a` | Focuses on Tree view |
 | Duplicate Lines | `shift-cmd-d` | `ctrl-shift-d` | `ctrl-shift-d` | Duplicates the line of the current cursor position and creates a new line under it with the same contents |
 | Delete Line | `ctrl-shift-k` | `ctrl-shift-k` | `ctrl-shift-k` | Deletes the current line |
 | Move Line Up | `ctrl-cmd-up` | `ctrl-up`  | `ctrl-up` | Moves the contents of the current cursor position up one line. If there is a line above with content, the current lines content will swap with the one above it. |
